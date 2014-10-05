@@ -1,0 +1,50 @@
+body{
+    background-image: url(../images/background1.jpg);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: 100%;
+}
+
+h1{
+	color: #29420A;
+}
+
+a{
+	color: #29420A;
+	text-decoration: none;
+}
+
+hr{
+	width: 700px;
+}
+
+img{
+	border:solid; 
+	width:300px; 
+	height:143px
+}
+
+ul{
+	margin-top: -5%;
+}
+
+div.main{
+	color: #29420A;
+	position:absolute; 
+	margin-left: 40%;
+	margin-right: 20%; 
+	margin-top: 8%;
+	font-size: 25px;
+}
+
+div.body{
+	color: #29420A;
+	position:absolute; 
+	margin-left: 25%;
+	margin-right: 20%; 
+	margin-top: 25%;
+	margin-bottom: 5%;
+	font-size: 20px;
+}
+
